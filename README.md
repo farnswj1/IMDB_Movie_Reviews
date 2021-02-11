@@ -1,0 +1,2 @@
+# IMDB Movie Reviews
+This project utilizes Apache Spark to create a model that predicts the sentiment of IMDB movie reviews. The model uses a Naive Bayes classifier and was able to achieve an accuracy of **85.47%**.
